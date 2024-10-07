@@ -1,0 +1,1 @@
+Java OOP assignment that simulates a song collection system. Has a program that creates the individual Song objects, and another program that creates the actual list of multiple songs. Conducted comprehensive JUnit tests to handle exceptions and real-world scenarios.
